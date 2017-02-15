@@ -1,5 +1,5 @@
 # pseudoso
-pseudoso disciplina sistemas operacional
+pseudoso disciplina sistemas operacionais
 
 Simples simulação de algoritimos e conceitos de um mini sistema operacional feito em python.
 
