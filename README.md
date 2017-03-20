@@ -1,13 +1,15 @@
 # pseudoso
-pseudoso disciplina sistemas operacionais
+Simple operational system simulation for Operational Systems course
 
-Simples simulação de algoritimos e conceitos de um mini sistema operacional feito em python.
+Simple simulation of algorithms and concepts of a small operational system.
 
-Cada linha do arquivo_de_entrada representa informações de um processo a ser executado.
-- Escalonador de processos
-- Gerenciador de mémoria
-- Gerenciamento de I/O
+Every line of the file arquivo_de_entrada represents a process that should be executed by the operational system.
 
-Versão python: 2.7.2
+Components:
+- Process Scheduler
+- Memory Managements
+- Input/Output Management
 
-Compilação: python main_module.py
+Python Version: 2.7.2
+
+Compile instructions: python main_module.py
