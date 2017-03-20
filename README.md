@@ -7,7 +7,7 @@ Every line of the file arquivo_de_entrada represents a process that should be ex
 
 Components:
 - Process Scheduler
-- Memory Managements
+- Memory Management
 - Input/Output Management
 
 Python Version: 2.7.2
